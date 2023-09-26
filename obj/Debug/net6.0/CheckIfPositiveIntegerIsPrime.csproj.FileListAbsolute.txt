@@ -1,0 +1,15 @@
+C:\Repo\CheckIfPositiveIntegerIsPrime\bin\Debug\net6.0\CheckIfPositiveIntegerIsPrime.exe
+C:\Repo\CheckIfPositiveIntegerIsPrime\bin\Debug\net6.0\CheckIfPositiveIntegerIsPrime.deps.json
+C:\Repo\CheckIfPositiveIntegerIsPrime\bin\Debug\net6.0\CheckIfPositiveIntegerIsPrime.runtimeconfig.json
+C:\Repo\CheckIfPositiveIntegerIsPrime\bin\Debug\net6.0\CheckIfPositiveIntegerIsPrime.dll
+C:\Repo\CheckIfPositiveIntegerIsPrime\bin\Debug\net6.0\CheckIfPositiveIntegerIsPrime.pdb
+C:\Repo\CheckIfPositiveIntegerIsPrime\obj\Debug\net6.0\CheckIfPositiveIntegerIsPrime.csproj.AssemblyReference.cache
+C:\Repo\CheckIfPositiveIntegerIsPrime\obj\Debug\net6.0\CheckIfPositiveIntegerIsPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\CheckIfPositiveIntegerIsPrime\obj\Debug\net6.0\CheckIfPositiveIntegerIsPrime.AssemblyInfoInputs.cache
+C:\Repo\CheckIfPositiveIntegerIsPrime\obj\Debug\net6.0\CheckIfPositiveIntegerIsPrime.AssemblyInfo.cs
+C:\Repo\CheckIfPositiveIntegerIsPrime\obj\Debug\net6.0\CheckIfPositiveIntegerIsPrime.csproj.CoreCompileInputs.cache
+C:\Repo\CheckIfPositiveIntegerIsPrime\obj\Debug\net6.0\CheckIfPositiveIntegerIsPrime.dll
+C:\Repo\CheckIfPositiveIntegerIsPrime\obj\Debug\net6.0\refint\CheckIfPositiveIntegerIsPrime.dll
+C:\Repo\CheckIfPositiveIntegerIsPrime\obj\Debug\net6.0\CheckIfPositiveIntegerIsPrime.pdb
+C:\Repo\CheckIfPositiveIntegerIsPrime\obj\Debug\net6.0\CheckIfPositiveIntegerIsPrime.genruntimeconfig.cache
+C:\Repo\CheckIfPositiveIntegerIsPrime\obj\Debug\net6.0\ref\CheckIfPositiveIntegerIsPrime.dll
